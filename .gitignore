@@ -73,3 +73,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*[Dd]ebug*/
+*[Rr]elease*/
+QuickCalc/QuickFunCalculator/QuickFunCalculator.v12.suo
+QuickCalc/QuickFunCalculator/QuickFunCalculator/Debug/QuickFun.29B1D854.tlog/cl.command.1.tlog
+*.suo
